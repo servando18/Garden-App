@@ -7,7 +7,7 @@ body {
 
 
 header {
-	background-image: url("images/watergardenheader.jpg");
+	background-image: url("../images/watergardenheader.jpg");
 	color: white;
 	font-size: 40px;
 	padding: 60px 300px 60px 300px;
@@ -34,7 +34,7 @@ h2 {
 }
 
 .section-three {
-	background: url("images/gardenhead.jpeg");
+	background: url("../images/gardenhead.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
@@ -200,14 +200,14 @@ input {
 	
 	#row1col2 {
 	  height: 500px;
-	  background-image: url("images/tomatoes.jpg");
+	  background-image: url("../images/tomatoes.jpg");
 	  background-repeat: no-repeat;
 	  background-size: cover;
 	}
 	
 	#row2col1 {
 	  height: 500px;
-	  background-image: url("images/carrots.jpg");
+	  background-image: url("../images/carrots.jpg");
 	  background-repeat: no-repeat;
 	  background-size: cover;
 	}
